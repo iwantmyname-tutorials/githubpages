@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to our GitHub Pages Tutorial
 
-You can use the [editor on GitHub](https://github.com/iwantmyname-tutorials/githubpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We've shown you how easy it is to set up a GitHub pages static site [](https://github.com/iwantmyname-tutorials/githubpages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+This **Markdown** sample will be enough to get you started!
 
 ### Markdown
 
